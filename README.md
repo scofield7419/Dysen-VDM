@@ -7,7 +7,7 @@ If you use Dysen-VDM in your project, please kindly cite:
 @articles{fei2023dysen,
   title={Empowering Dynamics-aware Text-to-Video Diffusion with Large Language Models},
   author={Hao Fei, Shengqiong Wu, Wei Ji, Hanwang Zhang, Tat-Seng Chua},
-  booktitle={arXiv:2204.034567},
+  booktitle={arXiv:2308.13812},
   year={2023}
 }
 ```
