@@ -2,14 +2,14 @@
 
 This is the repository of the [Dysen-VDM](https://haofei.vip/Dysen-VDM) project page.
 
-If you use Dysen-VDM in your project, please kindly cite:
+If you use Dysen-VDM, please kindly cite:
 ```
-@articles{fei2023dysen,
-  title={Empowering Dynamics-aware Text-to-Video Diffusion with Large Language Models},
+@inproceedings{fei2024dysen,
+  title={Dysen-VDM: Empowering Dynamics-aware Text-to-Video Diffusion with LLMs},
   author={Hao Fei, Shengqiong Wu, Wei Ji, Hanwang Zhang, Tat-Seng Chua},
-  journal = {CoRR},
-  volume = {arXiv:2308.13812},
-  year = {2023}
+  booktitle={Proceedings of the CVPR},
+  pages={961--970},
+  year={2024}
 }
 ```
 
